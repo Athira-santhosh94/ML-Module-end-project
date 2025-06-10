@@ -24,7 +24,7 @@ To build regression models that predict car prices in the US market. This helps 
 7. Hyperparameter Tuning
 
 ## Best Performing Model
-** Random Forest Regressor** (or your best model)
+**Random Forest Regressor** 
 
 ## Key Features Affecting Price
 - Engine Size  
